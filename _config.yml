@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: ADA Template Website
-description: A template website for ADA
+description: The datastory website
 show_downloads: True
 navigation:
-  - title: Home
+  - title: TalentedSoup
     url: /
   - title: Example
     url: example
